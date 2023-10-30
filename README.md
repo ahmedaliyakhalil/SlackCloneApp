@@ -1,10 +1,9 @@
-# SlackCloneApp
-CodeAlpha task 6
+# Slack (clone)
 
-Slack is one of the widely used communication channels
-used by corporates for work-related communication. Making
-a slack clone is a great project for your resume and will
-surely catch the eye of the recruiters.
-For the frontend and core functionalities, you can use React.
-Use Redux for effective state management and Firebase for
-real-time databases.
+> _This is a clone of Slack chat app made using React._
+
+### To run the project locally on your machine:
+
+- Install dependencies by running `yarn` command in the terminal.
+- Run the app in the development mode by running command `yarn start`.
+- Open `http://localhost:3000` to view it in the browser.
